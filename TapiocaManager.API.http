@@ -1,0 +1,6 @@
+@TapiocaManager.API_HostAddress = http://localhost:5210
+
+GET {{TapiocaManager.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
