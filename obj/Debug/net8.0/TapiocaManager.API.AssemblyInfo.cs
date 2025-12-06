@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TapiocaManager.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcbe5e4b7f478b6a73bc1c6840ef8c86b3dfd2d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8df71685ec7bd90a435025c219ad353a628cc7cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("TapiocaManager.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TapiocaManager.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
